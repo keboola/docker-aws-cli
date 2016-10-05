@@ -4,7 +4,6 @@
 /.bundle/
 /spec/
 /vendor/
-Dockerfile
 Gemfile
 Gemfile.lock
 LICENSE
