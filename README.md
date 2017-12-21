@@ -1,3 +1,7 @@
+# DEPRECATED
+
+Use [keboola/aws-cli](https://github.com/keboola/aws-cli).
+
 # blendle/aws-cli [![Build Status](http://drone.blendle.io/api/badge/github.com/blendle/docker-aws-cli/status.svg?branch=master)](http://drone.blendle.io/github.com/blendle/docker-aws-cli)
 
 Small'ish (`75.58 MB`) Docker image to work with the AWS CLI.
